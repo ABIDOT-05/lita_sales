@@ -16,7 +16,7 @@
 [Data Summary](Data-Summary)
 
 
-### project overview.Project Objective
+### project overview
 The objective of this project is to analyze sales data to:
 gain insights into customer purchasing behavior
 identify trends over time
